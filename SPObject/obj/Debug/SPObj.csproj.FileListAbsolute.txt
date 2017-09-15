@@ -1,0 +1,11 @@
+D:\DALProject\SPObjectProject\SPObject\bin\Debug\ICSharpCode.NRefactory.CSharp.dll
+D:\DALProject\SPObjectProject\SPObject\bin\Debug\ICSharpCode.NRefactory.dll
+D:\DALProject\SPObjectProject\SPObject\bin\Debug\Mono.Cecil.dll
+D:\DALProject\SPObjectProject\SPObject\bin\Debug\ICSharpCode.NRefactory.xml
+D:\DALProject\SPObjectProject\SPObject\bin\Debug\ICSharpCode.NRefactory.CSharp.xml
+D:\DALProject\SPObjectProject\SPObject\obj\Debug\SPObj.csprojResolveAssemblyReference.cache
+D:\DALProject\SPObjectProject\SPObject\bin\Debug\SPObj.exe.config
+D:\DALProject\SPObjectProject\SPObject\bin\Debug\SPObj.exe
+D:\DALProject\SPObjectProject\SPObject\bin\Debug\SPObj.pdb
+D:\DALProject\SPObjectProject\SPObject\obj\Debug\SPObj.exe
+D:\DALProject\SPObjectProject\SPObject\obj\Debug\SPObj.pdb
